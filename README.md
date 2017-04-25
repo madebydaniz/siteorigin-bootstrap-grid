@@ -1,8 +1,8 @@
 # Bootstrap Grid for Page Builder by SiteOrigin
 
-Allow you to use Bootstrap grid with Page Builder by SiteOrigin. Replaces the default grid system.
+Use Bootstrap grid with Page Builder by SiteOrigin. Replaces the default grid system.
 
-This is a fork of jnhghy's (project)[https://github.com/nego-solutions/Bootstrap-Grid-for-SiteOrigin-Panels].
+This is a fork of jnhghy's [project](https://github.com/nego-solutions/Bootstrap-Grid-for-SiteOrigin-Panels).
 
 In addition to solving some of the issues in the original repo, it also adds the following options to the SiteOrigin settings:
 - Option to enable/disable Bootstrap grid
