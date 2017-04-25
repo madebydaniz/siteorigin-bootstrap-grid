@@ -2,6 +2,9 @@
 
 Use Bootstrap grid with Page Builder by SiteOrigin. Replaces the default grid system.
 
+![screenshot](https://raw.githubusercontent.com/dolatabadi/siteorigin-bootstrap-grid/master/screenshots/screenshot-1.png")
+
+
 This is a fork of jnhghy's [project](https://github.com/nego-solutions/Bootstrap-Grid-for-SiteOrigin-Panels).
 
 In addition to solving some of the issues in the original repo, it also adds the following options to the SiteOrigin settings:
